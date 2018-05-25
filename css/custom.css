@@ -1,0 +1,21 @@
+/* see: style.css */
+.logo {
+    vertical-align: middle;
+}
+.logo a {
+    display:inline;
+    border:none;
+}
+.portfolio .item img {
+    width:75%;
+    height:128px;
+    object-fit:cover;
+}
+
+.portfolio .item a {
+    width:85%;
+}
+
+.pink-text {
+    color:#f7639a;            
+}
